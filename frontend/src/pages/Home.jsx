@@ -156,6 +156,7 @@ const Home = () => {
 
     <About/>
 
+
     {      /* service section */
 }
     <section>
